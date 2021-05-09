@@ -1,0 +1,7 @@
+This is it...
+
+No, really. 
+
+The vmlinuz is actually linux 3.19. I built it using the "kernel_config" file.
+
+The makefile was written and tested using Slackware 14.1 x86_64.
